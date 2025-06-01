@@ -31,7 +31,7 @@
 import { ref } from "vue";
 
 const heroImage = new URL(
-  "../assets/tableaux/photo_2025-06-01_19-13-12.jpg",
+  "../assets/tableaux/photo_2025-06-01_19-34-15.jpg",
   import.meta.url
 ).href;
 
